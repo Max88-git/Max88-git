@@ -1,4 +1,6 @@
-### My name is Max Lockwood and I'm studying to become a Front-end Developer 👋
+### Hi, I'm Max. 👋
+
+## I'm studying to become a Front-end Developer.
 
 - 🔭 &nbsp;I’m currently working on a JS Quiz
 - 🌱 &nbsp;I’m currently learning JavaScript
