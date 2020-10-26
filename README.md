@@ -11,3 +11,13 @@
 - 😄 &nbsp;Pronouns: HE/Him
 - ⚡&nbsp;Fun fact: I am half Dutch and I love to draw.
 
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="48px" src="img/icons8-visual-studio-code-2019-48.png" />
+<img align="left" alt="Visual Studio Code" width="48px" src="img/icons8-html-5-48.png" />
+<img align="left" alt="Visual Studio Code" width="48px" src="img/icons8-css3-48.png" />
+<img align="left" alt="Visual Studio Code" width="48px" src="img/icons8-javascript-48.png" />
+<img align="left" alt="Visual Studio Code" width="48px" src="img/icons8-jquery-50.png" />
+<img align="left" alt="Visual Studio Code" width="48px" src="img/icons8-git-48.png" />
+<img align="left" alt="Visual Studio Code" width="48px" src="img/icons8-github-48.png" />
+<img align="left" alt="Visual Studio Code" width="48px" src="img/icons8-console-48.png" />
