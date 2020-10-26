@@ -9,5 +9,5 @@
 - 💬 &nbsp;Ask me about anything
 - 📫 &nbsp;How to reach me: mlockwood@hotmail.co.uk
 - 😄 &nbsp;Pronouns: HE/Him
-- ⚡&nbsp;Fun fact: I am half Dutch
+- ⚡&nbsp;Fun fact: I am half Dutch and I love to draw.
 
