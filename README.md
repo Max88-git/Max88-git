@@ -14,10 +14,11 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="38px" src="img/icons8-visual-studio-code-2019-48.png" />
-<img align="left" alt="Visual Studio Code" width="38px" src="img/icons8-html-5-48.png" />
-<img align="left" alt="Visual Studio Code" width="38px" src="img/icons8-css3-48.png" />
-<img align="left" alt="Visual Studio Code" width="38px" src="img/icons8-javascript-48.png" />
-<img align="left" alt="Visual Studio Code" width="38px" src="img/icons8-jquery-50.png" />
-<img align="left" alt="Visual Studio Code" width="38px" src="img/icons8-git-48.png" />
-<img align="left" alt="Visual Studio Code" width="38px" src="img/icons8-github-48.png" />
-<img align="left" alt="Visual Studio Code" width="38px" src="img/icons8-console-48.png" />
+<img align="left" alt="HTML5" width="38px" src="img/icons8-html-5-48.png" />
+<img align="left" alt="CSS3" width="38px" src="img/icons8-css3-48.png" />
+<img align="left" alt="JavaScript" width="38px" src="img/icons8-javascript-48.png" />
+<img align="left" alt="jQuery" width="38px" src="img/icons8-jquery-50.png" />
+<img align="left" alt="Python" width="38px" src="img/icons8-python-48.png" />
+<img align="left" alt="Git" width="38px" src="img/icons8-git-48.png" />
+<img align="left" alt="GitHub" width="38px" src="img/icons8-github-48.png" />
+<img align="left" alt="Terminal" width="38px" src="img/icons8-console-48.png" />
