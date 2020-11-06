@@ -17,6 +17,7 @@
 <img align="left" alt="HTML5" width="38px" src="img/icons8-html-5-48.png" />
 <img align="left" alt="CSS3" width="38px" src="img/icons8-css3-48.png" />
 <img align="left" alt="JavaScript" width="38px" src="img/icons8-javascript-48.png" />
+<img align="left" alt="Bootstrap" width="38px" src="img/icons8-bootstrap-48" />
 <img align="left" alt="jQuery" width="38px" src="img/icons8-jquery-50.png" />
 <img align="left" alt="Git" width="38px" src="img/icons8-git-48.png" />
 <img align="left" alt="GitHub" width="38px" src="img/icons8-github-48.png" />
