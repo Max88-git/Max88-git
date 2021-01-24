@@ -1,6 +1,6 @@
 ### Hi, I'm Max. 👋
 
-## I'm studying to become a Front-end Developer.
+## I'm studying to become a Front-End Developer.
 
 - 🔭 &nbsp;I’m currently working on my portfolio website
 - 🌱 &nbsp;I’m currently learning JavaScript
