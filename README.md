@@ -1,6 +1,6 @@
 ### Hi, I'm Max. 👋
 
-## I'm studying to become a Front-end Developer.
+## I'm studying to become a Front-End Developer.
 
 - 🔭 &nbsp;I’m currently working on my portfolio website
 - 🌱 &nbsp;I’m currently learning JavaScript
@@ -19,6 +19,7 @@
 <img align="left" alt="JavaScript" width="38px" src="img/icons8-javascript-48.png" />
 <img align="left" alt="Bootstrap" width="38px" src="img/icons8-bootstrap-48.png" />
 <img align="left" alt="jQuery" width="38px" src="img/icons8-jquery-50.png" />
+<img align="left" alt="React" width="38px" src="img/icons8-React-48.png" />
 <img align="left" alt="Git" width="38px" src="img/icons8-git-48.png" />
 <img align="left" alt="GitHub" width="38px" src="img/icons8-github-48.png" />
 <img align="left" alt="Terminal" width="38px" src="img/icons8-console-48.png" />
