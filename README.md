@@ -11,7 +11,7 @@
 - 😄 &nbsp;Pronouns: HE/Him
 - ⚡&nbsp;Fun fact: I am half Dutch and I love to draw.
 
-### Languages and Tools:
+### Technologies and Tools
 
 <img align="left" alt="Visual Studio Code" width="38px" src="img/icons8-visual-studio-code-2019-48.png" />
 <img align="left" alt="HTML5" width="38px" src="img/icons8-html-5-48.png" />
