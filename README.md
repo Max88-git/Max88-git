@@ -8,8 +8,7 @@
 - 🤔 &nbsp;I’m looking for help with modern JS
 - 💬 &nbsp;Ask me about anything
 - 📫 &nbsp;How to reach me: mlockwood@hotmail.co.uk
-- 😄 &nbsp;Pronouns: HE/Him
-- ⚡&nbsp;Fun fact: I am half Dutch and I love to draw.
+- ⚡ &nbsp;Fun fact: I am half Dutch and I love to draw.
 
 ### Technologies and Tools
 
