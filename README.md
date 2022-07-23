@@ -1,4 +1,8 @@
-### Hi, I'm Max. 👋
+<div id="header" align="center">
+  <img alt="Logo" src="img/ml-circle-leaf-170.png" width="100"/>
+</div>
+
+# Hi, I'm Max 👋
 
 ## I'm studying to become a Frontend Developer.
 
@@ -9,10 +13,10 @@
 - 💬 &nbsp;Ask me about anything
 - 📫 &nbsp;How to reach me: mlockwood@hotmail.co.uk
 - ⚡ &nbsp;Fun fact: I am half Dutch and I love to draw.
+<hr>
 
-### Technologies and Tools
+### Languages and Frameworks
 
-<img align="left" alt="Visual Studio Code" width="38px" src="img/icons8-visual-studio-code-2019-48.png" />
 <img align="left" alt="HTML5" width="38px" src="img/icons8-html-5-48.png" />
 <img align="left" alt="CSS3" width="38px" src="img/icons8-css3-48.png" />
 <img align="left" alt="JavaScript" width="38px" src="img/icons8-javascript-48.png" />
@@ -20,5 +24,11 @@
 <img align="left" alt="Bootstrap" width="38px" src="img/icons8-bootstrap-48.png" />
 <img align="left" alt="jQuery" width="38px" src="img/icons8-jquery-50.png" />
 <img align="left" alt="React" width="38px" src="img/icons8-react-48.png" />
-<img align="left" alt="Git" width="38px" src="img/icons8-git-48.png" />
+<br />
+<br />
+
+### Tools
+
+<img align="left" alt="Visual Studio Code" width="38px" src="img/icons8-visual-studio-code-2019-48.png" />
 <img align="left" alt="GitHub" width="38px" src="img/icons8-github-48.png" />
+<img align="left" alt="Git" width="38px" src="img/icons8-git-48.png" />
