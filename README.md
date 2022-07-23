@@ -13,7 +13,7 @@
 - 💬 &nbsp;Ask me about anything
 - 📫 &nbsp;How to reach me: mlockwood@hotmail.co.uk
 - ⚡ &nbsp;Fun fact: I am half Dutch and I love to draw.
-<hr>
+<hr style="border-width: 1px;">
 
 ### Languages and Frameworks
 
