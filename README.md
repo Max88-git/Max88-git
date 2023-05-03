@@ -11,7 +11,6 @@
 - 👯 &nbsp;I’m looking to collaborate on client-side technologies
 - 🤔 &nbsp;I’m looking for help with modern JS
 - 💬 &nbsp;Ask me about anything
-- 📫 &nbsp;How to reach me: mlockwood@hotmail.co.uk
 - ⚡ &nbsp;Fun fact: I am half Dutch and I love to draw.
 <hr style="border-width: 1px;">
 
